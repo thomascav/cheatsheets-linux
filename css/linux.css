@@ -3,6 +3,13 @@ table, td {
   margin-left: 0.3em;
   padding: 0.2em;
   background-color: #EEF6FF ;
+  text-align: center;
+}
+table {
   width: 90%;
-
+}
+#titre {
+  background-color: black;
+  color: white;
+  text-align: center;
 }
