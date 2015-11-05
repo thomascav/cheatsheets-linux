@@ -1,5 +1,5 @@
 table, td {
-  border: 0.1em solid black ;
+  border: 0.1em solid grey ;
   /*margin-left: 0.3em;*/
   padding: 0.2em;
   background-color: black ;
@@ -23,12 +23,15 @@ div img {
   background-color: black;
   color: white;
   text-align: center;
-  border: 0.1em solid black;
   border-radius: 0.1em;
   width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
   margin-bottom: 2em;
-  padding-bottom: 1em;
+  padding-bottom: 2em;
+  padding-top: 2em;
   box-shadow: 0.06em 0.06em 0.80em #555;
+
 }
 * {
   font-family: 'Comfortaa', cursive;
