@@ -10,6 +10,13 @@ table, td {
 table {
   width: 90%;
 }
+div img {
+    float: left;
+    max-width: 7%;
+    max-height: 7%;
+    padding-top: 1%;
+    padding-left: 1%
+}
 #titre {
   font-size: 1.2em;
   background-color: black;
